@@ -2,3 +2,4 @@
 A Runge-Kutta approximation of cyclotron motion 
 Inspiration for simulation taken from https://github.com/marcrowo/cyclotron/blob/master/cyclotron.py
 changed to fully implement The lorentz force in 2D
+Matplotlib is necessary to plot results
